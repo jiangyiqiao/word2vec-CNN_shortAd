@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/jiang/ad_classifier/models/20180209/checkpoints/model-200"
+all_model_checkpoint_paths: "/home/jiang/ad_classifier/models/20180209/checkpoints/model-100"
+all_model_checkpoint_paths: "/home/jiang/ad_classifier/models/20180209/checkpoints/model-200"
